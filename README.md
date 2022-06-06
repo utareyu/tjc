@@ -1,5 +1,5 @@
-# tljc
-Text Line JSON Converter
+# tjc
+Textarea JSON Converter
 
 ##cモード(会話まとめ)  
 tlc c [タイトル区切り文字] [投稿区切り文字] [うた、えりんぎ、しろる、紅茶それぞれの識別文字 ,区切り]
@@ -13,7 +13,7 @@ tlc k [区切り文字] [うた、えりんぎ、しろる、紅茶それぞれ�
 
 #例
 
-tljc c @ # (u,k,r,t)  
+tjc c @ # (u,k,r,t)  
 @@靴履けよ@@220205  
 t##👀  
 r##🍫  
